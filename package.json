@@ -10,7 +10,7 @@
   "author": "Mohammed Amine Boutouil",
   "license": "MIT",
   "dependencies": {
-    "ssh2": "^0.8.8",
+    "ssh2": "^1.14.0",
     "oracledb": "^4.2.0"
   },
   "repository": {
