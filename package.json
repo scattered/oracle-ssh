@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "ssh2": "^1.14.0",
-    "oracledb": "^5.1.0"
+    "oracledb": "https://github.com/oracle/node-oracledb/releases/download/v5.5.0/oracledb-src-5.5.0.tgz"
   },
   "repository": {
     "type": "git",
